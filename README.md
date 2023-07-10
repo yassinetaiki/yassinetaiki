@@ -2,7 +2,7 @@
 <!--
 **yassinetaiki/yassinetaiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Welcome to my Github profile! My name is Yassine Yaiki, and I hold a Master's degree in Computer Science and Complex Systems Analysis from Littoral Engineering School. I'm a passionate developer with a keen interest in data science engineer and machine learning. I enjoy working on challenging projects that involve extracting insights from data and building intelligent solutions.
+Welcome to my Github profile! My name is Yassine Yaiki, and I hold a Master's degree in Computer Science and Complex Systems Analysis from Littoral Engineering School. I'm a passionate developer with a keen interest in data science , engineer , and machine learning. I enjoy working on challenging projects that involve extracting insights from data and building intelligent solutions.
 
 🔭  I’m currently working on Data Streaming and Processing with Spark, Kafka and Hadoop and GCP cloud.
 
@@ -22,9 +22,9 @@ My Certifications and Courses
 
 . [NoSQL, Big Data, and Spark Foundations](https://www.coursera.org/verify/specialization/KL64ACAVJUKT)
 
-.[BI Foundations with SQL, ETL and Data Warehousing](https://www.coursera.org/verify/specialization/2LNQK3XHUJKV)
+. [BI Foundations with SQL, ETL and Data Warehousing](https://www.coursera.org/verify/specialization/2LNQK3XHUJKV)
 
-.[Machine learning](https://www.coursera.org/verify/6B9XQBWRTFP3)
+. [Machine learning](https://www.coursera.org/verify/6B9XQBWRTFP3)
 
 
 I'm excited to connect with fellow developers, share knowledge, and contribute to the open-source community!
