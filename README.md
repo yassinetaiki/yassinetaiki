@@ -10,7 +10,7 @@ Welcome to my Github profile! My name is Yassine Yaiki, and I hold a Master's de
 
 💬 Ask me about data analysis, machine learning algorithms, and Python programming.
 
-📫 How to reach me: Feel free to connect with me on LinkedIn or drop me an email at [yassinetaiki01@gmail.com](mailto:yassinetaiki01@gmail.com)..
+📫 How to reach me: Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/yassinetaiki/) or drop me an email at [yassinetaiki01@gmail.com](mailto:yassinetaiki01@gmail.com)..
 
 ⚡ Fun fact: Apart from coding, I enjoy playing team sports and exploring new hiking trails.
 
