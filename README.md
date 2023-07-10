@@ -20,9 +20,9 @@ My Certifications and Courses
 
 . [AWS Cloud Technical Essentials](https://www.coursera.org/verify/V7HN235J7VJ8)
 
-. [NoSQL, Big Data, and Spark Foundations](https://www.coursera.org/specialization/KL64ACAVJUKT)
+. [NoSQL, Big Data, and Spark Foundations](https://www.coursera.org/verify/specialization/KL64ACAVJUKT)
 
-.[BI Foundations with SQL, ETL and Data Warehousing](https://www.coursera.org/specialization/2LNQK3XHUJKV)
+.[BI Foundations with SQL, ETL and Data Warehousing](https://www.coursera.org/verify/specialization/2LNQK3XHUJKV)
 
 .[Machine learning](https://www.coursera.org/verify/6B9XQBWRTFP3)
 
